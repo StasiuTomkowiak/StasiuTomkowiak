@@ -1,4 +1,6 @@
 <div align="center" style="margin-bottom: 10px;">
+
+
 # 👨‍💻 About Me:
 🎓 Algorithmic Computer Science student at Politechnika Wrocławska
 
@@ -18,7 +20,6 @@ tomkowiakstas@gmail.com
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" height="40" alt="spring logo"  />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" height="40" alt="cpp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 
