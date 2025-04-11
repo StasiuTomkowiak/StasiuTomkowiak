@@ -4,7 +4,7 @@
 # 👨‍💻 About Me:
 🎓 Algorithmic Computer Science student at Politechnika Wrocławska
 
-🛡️ My focus lies in backend development and solving algorithmic challenges. I’m also exploring how machine learning and AI techniques can be integrated into scalable systems. I aim to build robust and forward-thinking solutions.
+🛡️ My focus lies in backend development and solving algorithmic challenges. I’m also exploring how machine learning and AI techniques can be integrated into scalable systems. 
 
 💪 I’m passionate about music, reading, and constantly exploring new knowledge – finding inspiration both in creativity and intellectual challenges.
 
