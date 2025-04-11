@@ -1,4 +1,4 @@
-
+<div align="center" style="margin-bottom: 10px;">
 # 👨‍💻 About Me:
 🎓 Algorithmic Computer Science student at Politechnika Wrocławska
 
