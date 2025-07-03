@@ -10,7 +10,7 @@ I'm passionate about building robust and scalable backend solutions using Java a
 ## 🌐 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomkowiakstas@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/staś-tomkowiak-53832230b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sta%C5%9B-tomkowiak-53832230b)
 
 
 ## 💻 Tech Stack
@@ -40,9 +40,10 @@ I'm passionate about building robust and scalable backend solutions using Java a
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=StasiuTomkowiak&theme=dark&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StasiuTomkowiak&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=StasiuTomkowiak&theme=dark&hide_border=false)
+
 </div>
+
