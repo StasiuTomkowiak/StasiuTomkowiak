@@ -1,4 +1,4 @@
-# 💫 About Me
+# 👨‍💻 About Me
 
 🎓 **Computer Science Student** at Politechnika Wrocławska  
 💼 **Java Developer** specializing in backend systems  
