@@ -1,4 +1,4 @@
-# 👨‍💻 About Me
+# 💫 About Me
 
 🎓 **Computer Science Student** at Politechnika Wrocławska  
 💼 **Java Developer** specializing in backend systems  
@@ -11,7 +11,9 @@ I'm passionate about building robust and scalable backend solutions using Java a
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomkowiakstas@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sta%C5%9B-tomkowiak-53832230b)
-
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-username)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/your-username)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-id)
 
 ## 💻 Tech Stack
 
@@ -34,6 +36,7 @@ I'm passionate about building robust and scalable backend solutions using Java a
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vault](https://img.shields.io/badge/vault-%23000000.svg?style=for-the-badge&logo=vault&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![SVN](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
@@ -41,9 +44,9 @@ I'm passionate about building robust and scalable backend solutions using Java a
 
 <div align="center">
 
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StasiuTomkowiak&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=StasiuTomkowiak&theme=dark&hide_border=false)
 
-</div>
 
+</div>
