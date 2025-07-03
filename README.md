@@ -47,13 +47,3 @@ I'm passionate about building robust and scalable backend solutions using Java a
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Loki](https://img.shields.io/badge/grafana%20loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StasiuTomkowiak&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=StasiuTomkowiak&theme=dark&hide_border=false)
-
-
-</div>
